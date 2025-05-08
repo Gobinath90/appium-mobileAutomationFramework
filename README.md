@@ -180,7 +180,7 @@ name.
 
 ## :pushpin: Running tests through Maven
 
-:point_right: Run test using command `mvn test -Dsurefire.suiteXmlFiles=<provide the testng xml to execute>`
+:point_right: Run test using command `mvn test -Dsurefire.suiteXmlFiles=testng_android_Emulator.xml`
 
 ## :pushpin: Running tests through testng xml
 

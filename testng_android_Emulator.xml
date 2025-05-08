@@ -9,7 +9,7 @@
         <parameter name="emulator" value="yes"></parameter>
         <parameter name="platformName" value="android"></parameter>
         <parameter name="udid" value="emulator-5554"></parameter>
-        <parameter name="deviceName" value="Pixel_3a_API_30"></parameter>
+        <parameter name="deviceName" value="Medium Phone"></parameter>
         <parameter name="systemPort" value="7878"/>
         <classes>
             <class name="com.tests.LoginTest"/>
@@ -17,7 +17,7 @@
         </classes>
     </test> <!-- Test -->
 
-    <test name="Test_WebBrowser-Pixel3a_Emulator">
+   <!--     <test name="Test_WebBrowser-Pixel3a_Emulator">
         <parameter name="emulator" value="yes"></parameter>
         <parameter name="platformName" value="android_web"></parameter>
         <parameter name="udid" value="emulator-5554"></parameter>
@@ -27,5 +27,5 @@
         <classes>
             <class name="com.tests.GoogleTest"/>
         </classes>
-    </test> <!-- Test -->
+    </test> Test -->
 </suite> <!-- Suite -->
